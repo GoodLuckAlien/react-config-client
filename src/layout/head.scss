@@ -1,0 +1,18 @@
+.userInfo{
+    float: right;
+    padding-right: 30px;
+    img{
+        height: 40px;
+        margin-right: 10px;
+        width: 40px;
+        border-radius:50% ;
+        cursor: pointer;
+    }
+    .name{
+        margin-right: 10px;
+    }
+}
+.isConfig{
+    display: inline-block;
+    margin-left:30px;
+}

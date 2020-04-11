@@ -1,0 +1,18 @@
+
+
+.login-box{
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    .form-box{
+       width: 400px;
+       height: 500px;
+       border: 1px solid #ccc;
+       position: absolute;
+       left:50%;
+       top:50%;
+       padding: 30px;
+       transform: translate(-50%,-50%);
+    }
+}
